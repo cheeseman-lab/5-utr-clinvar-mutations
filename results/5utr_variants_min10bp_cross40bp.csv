@@ -1,0 +1,8 @@
+gene_name,hgvsc,variant_type,wt_utr_length,mutant_utr_length,size_change,crosses_10bp,crosses_20bp,crosses_30bp,crosses_40bp,has_truncated_isoform,genomic_coords,clinical_significance,clinvar_url,variant_id,refseq_id,chromosome,start,stop
+VHL,c.-39_-10del,deletion,70,40,-30,False,False,False,True,True,chr3:10141804-10141833,Uncertain significance,https://www.ncbi.nlm.nih.gov/clinvar/variation/2928001/,2928001,NM_000551,3,10141804,10141833
+CRYGD,c.-44_-23del,deletion,51,29,-22,False,False,True,True,False,chr2:208124496-208124517,Benign,https://www.ncbi.nlm.nih.gov/clinvar/variation/1242389/,1242389,NM_006891,2,208124496,208124517
+SELENON,c.-22_-13dup,duplication,38,48,10,False,False,False,True,False,chr1:25800201-25800202,Likely benign,https://www.ncbi.nlm.nih.gov/clinvar/variation/514934/,514934,NM_206926,1,25800201,25800202
+SELENON,c.-14_-5dup,duplication,38,48,10,False,False,False,True,False,chr1:25800209-25800210,Likely benign,https://www.ncbi.nlm.nih.gov/clinvar/variation/2638502/,2638502,NM_206926,1,25800209,25800210
+GALNT12,c.2_13dup,duplication,29,41,12,False,False,True,True,False,chr9:98807692-98807693,Uncertain significance,https://www.ncbi.nlm.nih.gov/clinvar/variation/1784215/,1784215,NM_024642,9,98807692,98807693
+SGSH,c.-39_-16dup24,duplication,20,44,24,False,False,True,True,False,chr17:80220328-80220329,Uncertain significance,https://www.ncbi.nlm.nih.gov/clinvar/variation/4537049/,4537049,NM_000199,17,80220328,80220329
+BCKDHA,c.12_13insGACGGGCGAGGTGGCTCACGCCTGAAATCCCAGCACTATGGGAGGCCGAGGCGGGCGGATCACGAGGTCAGGANNNNNNNNNNAAAAAAAAAAAAAAAAAAAAAAGATGGCGGTAGCG,insertion,10,83,73,False,True,True,True,False,chr19:41397824-41397825,Pathogenic,https://www.ncbi.nlm.nih.gov/clinvar/variation/1996087/,1996087,NM_000709,19,41397824,41397825

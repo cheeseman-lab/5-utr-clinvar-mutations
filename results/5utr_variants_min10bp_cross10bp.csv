@@ -1,0 +1,3 @@
+gene_name,hgvsc,variant_type,wt_utr_length,mutant_utr_length,size_change,crosses_10bp,has_truncated_isoform,genomic_coords,clinical_significance,clinvar_url,variant_id,refseq_id,chromosome,start,stop
+CDKN2A,c.194-3646_194-3624del,deletion,30,7,-23,True,False,chr9:21974832-21974854,Uncertain significance,https://www.ncbi.nlm.nih.gov/clinvar/variation/630615/,630615,NM_058195,9,21974832,21974854
+ATR,c.-29_-9delinsT,indel,29,9,-20,True,False,chr3:142578713-142578733,Conflicting classifications of pathogenicity,https://www.ncbi.nlm.nih.gov/clinvar/variation/343631/,343631,NM_001184,3,142578713,142578733

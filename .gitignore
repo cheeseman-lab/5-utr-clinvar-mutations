@@ -1,0 +1,14 @@
+# Data files (too large for git)
+data/*.gz
+data/*.txt.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Results (optional - you may want to track some)
+# results/
+
+# OS
+.DS_Store
