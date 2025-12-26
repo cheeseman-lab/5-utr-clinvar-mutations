@@ -1,4 +1,4 @@
-# Data files (too large for git)
+1# Data files (too large for git)
 data/*.gz
 data/*.txt.gz
 
